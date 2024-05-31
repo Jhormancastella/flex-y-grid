@@ -7,6 +7,7 @@ body {
 }
 
 .grid-container {
+  margin: 1% 10% 2% 10%;
   border-radius: 10%;
   display: grid;
   grid-template-columns: auto auto;
@@ -16,6 +17,7 @@ body {
   border-radius: 2px;
 }
 .grid-container2{
+  margin: 1% 10% 2% 10%;
   border-radius: 10%;
   display: grid;
   grid-template-columns: auto auto;
