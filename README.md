@@ -1,7 +1,8 @@
 # flex-y-grid
 
 ## Propósito
-Este proyecto tiene como objetivo desarrollar una web.
+Este proyecto tiene como objetivo desarrollar una web teniendo como 
+manejo el uso de flex y el grid en css.
 
 ## clonar repositorio
 ```bash
